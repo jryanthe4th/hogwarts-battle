@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'harrypotter';
+    src: url('../../static/fonts/harrypotter/HarryP.woff')   format('woff'),
+         url('../../static/fonts/harrypotter/HarryP.woff2')   format('woff2');
+}
+
+h1 {
+    font-family: 'harrypotter';
+}
+
+body {
+    font-family: 'harrypotter';
+}
